@@ -1,0 +1,53 @@
+*{
+    padding:0px; 
+    margin: 0px;
+}
+div.navbar{
+    border: 1px solid red;
+    height: 100px;
+    background-color: grey;
+    color: white;
+}
+.logo{
+    width: 40px;
+}
+div.navbarone{
+    text-align: center;
+}
+img.navimage{
+    width: 600px;
+    background-color: gray;
+    text-align: center;
+}
+li.listone{
+    display: inline;
+    padding: 10px;
+}
+ol.olistone{
+    text-align: center;
+    padding-top: 30px;
+}
+div.leftnavbar{
+    width: 65%;
+    float: left;
+    border: 1px solid firebrick;
+}
+img.leftsideimg{
+    width: 250px;
+    height: 400px;
+}
+img.lefttwoimg{
+    float: left;
+    width: 200px;
+    height: 100px;
+    margin-left: 30px;
+}
+div.rightnavbar{
+    width: 50%;
+    border: 1px solid firebrick;
+    float: right;
+}
+img.rightsideone{
+    width:200px ;
+    height: 100px;
+}
